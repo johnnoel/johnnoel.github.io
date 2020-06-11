@@ -6,10 +6,19 @@
     <description>Recent content on ceetea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 07 Jun 2020 11:10:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 20:16:37 +0000</lastBuildDate>
     
 	<atom:link href="https://ceetea.uk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Forest Sentinel</title>
+      <link>https://ceetea.uk/posts/the-forest-sentinel/</link>
+      <pubDate>Thu, 11 Jun 2020 20:16:37 +0000</pubDate>
+      
+      <guid>https://ceetea.uk/posts/the-forest-sentinel/</guid>
+      <description>How long have I been trudging through this damnable forest?</description>
+    </item>
     
     <item>
       <title>The Tunnel</title>
