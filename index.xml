@@ -6,10 +6,19 @@
     <description>Recent content on ceetea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 11 Jun 2020 20:16:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2020 20:48:55 +0000</lastBuildDate>
     
 	<atom:link href="https://ceetea.uk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Family Computer</title>
+      <link>https://ceetea.uk/posts/the-family-computer/</link>
+      <pubDate>Sun, 14 Jun 2020 20:48:55 +0000</pubDate>
+      
+      <guid>https://ceetea.uk/posts/the-family-computer/</guid>
+      <description>This was definitely her foster mother’s fault</description>
+    </item>
     
     <item>
       <title>The Forest Sentinel</title>
