@@ -6,10 +6,19 @@
     <description>Recent content in Posts on ceetea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 02 Jul 2020 19:51:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2020 19:39:14 +0000</lastBuildDate>
     
 	<atom:link href="https://ceetea.uk/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Coronation</title>
+      <link>https://ceetea.uk/posts/coronation/</link>
+      <pubDate>Sun, 05 Jul 2020 19:39:14 +0000</pubDate>
+      
+      <guid>https://ceetea.uk/posts/coronation/</guid>
+      <description>My ascension would go ahead as planned, just earlier than everyone had been told.</description>
+    </item>
     
     <item>
       <title>Overlooking View</title>
